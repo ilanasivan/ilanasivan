@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ilana,
 
-I'm a right-brained researcher, an AI bot skill developer, a second-year Honors BSc in Computer Science student, and an intuitive design advocate (well, it makes your next sprint easier). 
+I'm a right-brained researcher, a budding bioinformatician, a third-year Honors BSc in Computer Science student, and an intuitive design advocate (well, it makes your next sprint easier). 
 
 - :bulb: I'm interested in **MLOps, Data Science, and Project Leadership**
 - 🌱 I’m currently learning about Dockers
